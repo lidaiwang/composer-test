@@ -1,0 +1,21 @@
+{
+    "name": "victorruan/composer-test",
+    "description": "This a demo for build composer packagist .",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "class li",
+            "email": "lidaiwangtime@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ford\\Escape\\": "src/Ford/Escape"
+        }
+    }
+}
