@@ -6,7 +6,7 @@
 
 #### composer require
 
-composer require lidaiwangtime/composer-test
+composer require lidaiwangtime/composer-test dev-master
 
 #### composer install
 ```
